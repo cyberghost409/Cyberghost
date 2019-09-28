@@ -1,0 +1,2 @@
+# Cyberghost
+Script kiddie
